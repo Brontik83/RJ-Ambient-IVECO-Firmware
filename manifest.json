@@ -1,9 +1,9 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.3",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.3_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.3/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.3_SIGNED.bin",
-  "sha256": "cd8248fa2e8c5321bbddf50568b048503b55048d2473b542cebe5cd5c0048639",
+  "version": "4.7.4",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.4_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.4/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.4_SIGNED.bin",
+  "sha256": "f214a4b5946f607d278d9cd0f1b075827d8bd0f9bb9299166ba842146c83bbd3",
   "key_id": "9A955362A5D1272C",
-  "notes": "Test automatické aktualizace z V4.7.2 včetně stažení, ověření podpisu, zápisu a restartu."
+  "notes": "Automatický návrat do ovládání po OTA, jednorázové zachování přihlášení a nový čistý testovací tag."
 }
