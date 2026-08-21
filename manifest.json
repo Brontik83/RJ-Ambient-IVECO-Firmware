@@ -1,9 +1,9 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.0",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.0_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.0/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.0_SIGNED.bin",
-  "sha256": "9501fb79a25d1a7d74c23b530ff2f4aef80021bc8ec4839536a6f8e52245224e",
+  "version": "4.7.1",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.1_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.1/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.1_SIGNED.bin",
+  "sha256": "54554faf0ab2c075a866e7d85bd71a2eb2ab0cd7c8badddabf2acbec67931580",
   "key_id": "9A955362A5D1272C",
-  "notes": "Přidána místní Wi-Fi, adresa .local a automatická nabídka podepsaných aktualizací."
+  "notes": "Přidáno přímé otevření přes aktuální IP a ikona RJ Ambient používající stálou adresu zařízení."
 }
