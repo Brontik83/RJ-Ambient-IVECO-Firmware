@@ -1,10 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.6",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.6/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
-  "sha256": "1a0bb3497766a36c05bdd3a2f889961a86013f3963750411f747dda2634ecb60",
+  "version": "4.7.7",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.7_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.7/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.7_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.7_SIGNED.bin",
+  "sha256": "21f5fdacbd9a7870e96f1b49b40bb544b8a53f2c916549ecba38a507a2665d53",
   "key_id": "9A955362A5D1272C",
-  "notes": "Přidána bezpečná aktualizace přes LTE telefonu bez routeru a hotspotu; zachována OTA přes místní Wi-Fi i ruční aktualizace."
+  "notes": "Přidán úplný uživatelský návod přímo do webového ovládání. Návod funguje bez internetu a obsahuje rychlý start, ovládání, aktualizaci přes LTE i řešení potíží."
 }
