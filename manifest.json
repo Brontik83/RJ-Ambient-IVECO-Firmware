@@ -1,10 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.9",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.9_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.9/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.9_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.9_SIGNED.bin",
-  "sha256": "f5cc20c972786b1b92ed83c5ddbc08c9697fdd64f9761109918260889f0a007e",
+  "version": "4.7.11",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.11_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.11/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.11_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.11_SIGNED.bin",
+  "sha256": "dbbfdebc15b9a393268107b831adde1714441f33038328101bee3c48d1164032",
   "key_id": "9A955362A5D1272C",
-  "notes": "Testovací navazující verze pro úplné ověření opravené aktualizace přes LTE a GitHub REST API."
+  "notes": "Testovací navazující verze pro úplné ověření dvoufázové aktualizace přes LTE bez routeru a hotspotu."
 }
