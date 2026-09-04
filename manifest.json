@@ -1,9 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.4",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.4_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.4/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.4_SIGNED.bin",
-  "sha256": "f214a4b5946f607d278d9cd0f1b075827d8bd0f9bb9299166ba842146c83bbd3",
+  "version": "4.7.6",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.6/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.6_SIGNED.bin",
+  "sha256": "1a0bb3497766a36c05bdd3a2f889961a86013f3963750411f747dda2634ecb60",
   "key_id": "9A955362A5D1272C",
-  "notes": "Automatický návrat do ovládání po OTA, jednorázové zachování přihlášení a nový čistý testovací tag."
+  "notes": "Přidána bezpečná aktualizace přes LTE telefonu bez routeru a hotspotu; zachována OTA přes místní Wi-Fi i ruční aktualizace."
 }
