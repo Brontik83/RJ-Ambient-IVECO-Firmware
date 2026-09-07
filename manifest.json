@@ -1,10 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.7.13",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.13_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.13/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.13_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.13_SIGNED.bin",
-  "sha256": "b2aba5f813e96a9d900cad90f98c681804164cc678b087e540a15e204251a2de",
+  "version": "4.8.0",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.0/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
+  "sha256": "06002c11d543f7e565707a4ed0f08a443874472eabc438ba0f1ceab265a7de6e",
   "key_id": "9A955362A5D1272C",
-  "notes": "Upřesněný dvoufázový postup: stahování přes LTE s vypnutou Wi-Fi, nahrávání přes Wi-Fi RJ Ambient s vypnutým LTE."
+  "notes": "Tovární reset podržením D5 alespoň 10 sekund při zapnutí. První volba jazyka a přepínání češtiny, angličtiny a němčiny přímo v menu. Aktualizovaný vestavěný návod pro obnovu zapomenutého hesla."
 }
