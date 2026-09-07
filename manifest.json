@@ -1,10 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.8.0",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.0/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.0_SIGNED.bin",
-  "sha256": "06002c11d543f7e565707a4ed0f08a443874472eabc438ba0f1ceab265a7de6e",
+  "version": "4.8.1",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.1/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
+  "sha256": "87b1ee712ec36d8785709ac7eae36b1c586b5eabd90b9988f1cd9c9baa3cca8e",
   "key_id": "9A955362A5D1272C",
-  "notes": "Tovární reset podržením D5 alespoň 10 sekund při zapnutí. První volba jazyka a přepínání češtiny, angličtiny a němčiny přímo v menu. Aktualizovaný vestavěný návod pro obnovu zapomenutého hesla."
+  "notes": "Kompletní společný jazykový balíček pro češtinu, angličtinu a němčinu. Přeloženy barvy, efekty, tlačítka, spodní menu, dynamická hlášení, aktualizace i servisní režim. Automatické přizpůsobení velikosti dlouhých nápisů."
 }
