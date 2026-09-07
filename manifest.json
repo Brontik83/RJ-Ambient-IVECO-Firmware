@@ -1,10 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.8.1",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.1/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.1_SIGNED.bin",
-  "sha256": "87b1ee712ec36d8785709ac7eae36b1c586b5eabd90b9988f1cd9c9baa3cca8e",
+  "version": "4.8.2",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.2/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
+  "sha256": "910fe20724d40ac543f0b15bad8e06725d952bc126100b447da7b575bba3591a",
   "key_id": "9A955362A5D1272C",
-  "notes": "Kompletní společný jazykový balíček pro češtinu, angličtinu a němčinu. Přeloženy barvy, efekty, tlačítka, spodní menu, dynamická hlášení, aktualizace i servisní režim. Automatické přizpůsobení velikosti dlouhých nápisů."
+  "notes": "Doplněny chybějící překlady v oddílu 2 vestavěného návodu. Přeložené stránky se zobrazí až po načtení uloženého jazyka, takže již neproblikne česká varianta."
 }
