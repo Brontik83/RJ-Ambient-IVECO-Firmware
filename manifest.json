@@ -1,10 +1,9 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.8.2",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.2/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.2_SIGNED.bin",
-  "sha256": "910fe20724d40ac543f0b15bad8e06725d952bc126100b447da7b575bba3591a",
+  "version": "4.7.0",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.7.0_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.7.0/RJ_AMBIENT_IVECO_28LED_HW1_V4.7.0_SIGNED.bin",
+  "sha256": "9501fb79a25d1a7d74c23b530ff2f4aef80021bc8ec4839536a6f8e52245224e",
   "key_id": "9A955362A5D1272C",
-  "notes": "Doplněny chybějící překlady v oddílu 2 vestavěného návodu. Přeložené stránky se zobrazí až po načtení uloženého jazyka, takže již neproblikne česká varianta."
+  "notes": "Přidána místní Wi-Fi, adresa .local a automatická nabídka podepsaných aktualizací."
 }
