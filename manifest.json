@@ -1,9 +1,10 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.8.4",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.4_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.4/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.4_SIGNED.bin",
-  "sha256": "daacab0009dc27b55c400e7a2237a30e9d761a1db5c51472981a4a924d6d4c2e",
+  "version": "4.8.7",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.7_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.7/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.7_SIGNED.bin",
+  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.7_SIGNED.bin",
+  "sha256": "26a28e20b2442e69de054470d3e2e10e1a2b1f10bc422600738287a2a471778a",
   "key_id": "9A955362A5D1272C",
-  "notes": "Oprava zastavení: fyzický i webový nápis IVECO po stisknutí Zastavit okamžitě zhasnou."
+  "notes": "Chování po zapnutí: volba se ukládá okamžitě do EEPROM bez samostatného tlačítka Uložit; aktivní volba je v rozhraní výrazně zvýrazněná. Zachována oprava STOP animace IVECO a sjednocený bezpečný OTA postup."
 }
