@@ -1,10 +1,9 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "4.8.9",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.9/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
-  "sha256": "e36c90f3cd98c13f4b41ae5fbb944af583d3cc3dbf14d9623c135c869bf239c0",
+  "version": "4.8.10",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.10_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.10/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.10_SIGNED.bin",
+  "sha256": "90f0eed52a48a31081ce0bb321e98b60f6053961151d93b334616a528279cf2b",
   "key_id": "9A955362A5D1272C",
-  "notes": "Test OTA V4.8.8 -> V4.8.9. Opraveny format RSA-2048 podpisu pro ESP8266: podpis + 4B delka podpisu."
+  "notes": "Aktualizace firmwaru RJ Ambient IVECO na verzi 4.8.10."
 }
