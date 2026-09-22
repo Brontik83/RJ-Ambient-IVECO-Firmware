@@ -3,8 +3,7 @@
   "version": "4.8.9",
   "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
   "url": "https://github.com/Brontik83/RJ-Ambient-IVECO-Firmware/releases/download/v4.8.9/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
-  "browser_url": "https://raw.githubusercontent.com/Brontik83/RJ-Ambient-IVECO-Firmware/main/firmware/RJ_AMBIENT_IVECO_28LED_HW1_V4.8.9_SIGNED.bin",
-  "sha256": "e55602580c40bfff5fba08f09f2ee838f8b0a7fd1fcd440903ce2b6ba6be3958",
+  "sha256": "e36c90f3cd98c13f4b41ae5fbb944af583d3cc3dbf14d9623c135c869bf239c0",
   "key_id": "9A955362A5D1272C",
-  "notes": "TEST OTA z V4.8.8: bez dalších funkčních změn, pouze ověření aktualizace na stejné domácí Wi-Fi bez nutnosti přepínání sítě."
+  "notes": "Aktualizace firmwaru RJ Ambient IVECO na verzi 4.8.9."
 }
